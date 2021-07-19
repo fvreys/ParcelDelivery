@@ -1,0 +1,45 @@
+2021-07-18 22:41:00  DEBUG    Start parsing of shipment
+2021-07-18 22:41:00  DEBUG    Handling of shipment with Id 68465468 on date 2016-07-22T00:00:00+02:00
+2021-07-18 22:41:00  INFO     Vinny Gankema 0.02 0.0  Address: Marijkestraat 28 4744AT Bosschenhoofd
+2021-07-18 22:41:00  INFO     Soner Colen 2.0 0.0  Address: Meester Willemstraat 111 3036MN Rotterdam
+2021-07-18 22:41:00  INFO     Ricardus Proper 100.0 2000.0  Address: Nieuwstraat 115 4724BE Wouw
+2021-07-18 22:41:00  INFO     Alvaro ten Cate 11 500  Address: Hoofdstraat 97 9801BZ Zuidhorn
+2021-07-18 22:41:00  INFO     Roland Lubben 3.0 0  Address: Willem Bontekoestraat 43 1212BZ Hilversum
+2021-07-18 22:41:00  INFO     Ninon Spanjersberg 10.0 1500  Address: Overmaat 115 7524PB Enschede
+2021-07-18 22:41:00  INFO     Ninon Spanjersberg 10.0 1500  Address: Overmaat 115 7524PB Enschede
+2021-07-18 22:41:00  INFO     Montana Martinus 0.7 0  Address: Salamander 147 3831ZA Leusden
+2021-07-18 22:41:00  INFO     Aisling Kruizenga 0.9 1100  Address: Oleanderlaan 17 8024XC Zwolle
+2021-07-18 22:41:00  INFO     Bernadet Spijker 4.5 0  Address: Paul Krugerstraat 1 4443RC Nisse
+2021-07-18 22:41:00  INFO     Collin Slaman 120 1500  Address: Schoolstraat 84 9581GD Musselkanaal
+2021-07-18 22:41:00  INFO     Collin Slaman 130 2000  Address: Berkengaarde 176 2742TS Waddinxveen
+2021-07-18 22:41:00  INFO     Ingetje Hauwert 0.3 0  Address: Berkengaarde 176 2742TS Waddinxveen
+2021-07-18 22:41:00  INFO     Amber van der Schaar 1 0  Address: Hoofdweg 68 9765CN Paterswolde
+2021-07-18 22:41:00  INFO     Willemtje Guldemond 15 100  Address: Ringspoor 30 2908BD Capelle aan den IJssel
+2021-07-18 22:41:00  INFO     Willemtje Guldemond 15 100  Address: Ringspoor 30 2908BD Capelle aan den IJssel
+2021-07-18 22:41:00  INFO     Zeki Soekhai 0.4 0  Address: Duivenstraat 125 4711KA Sint Willebrord
+2021-07-18 22:41:00  DEBUG    End parsing of shipment
+2021-07-18 22:41:00  DEBUG    Start parcel handling of shipment
+2021-07-18 22:41:00  INFO     Mail department handled parcel of 0.02 kg for Vinny Gankema
+2021-07-18 22:41:00  INFO     Regular department handled parcel of 2.0 kg for Soner Colen
+2021-07-18 22:41:00  INFO     Signoff by Insurance department for value of EUR 2000.0 for Ricardus Proper
+2021-07-18 22:41:00  INFO     Heavy department handled parcel of 100.0 kg for Ricardus Proper
+2021-07-18 22:41:00  INFO     Heavy department handled parcel of 11.0 kg for Alvaro ten Cate
+2021-07-18 22:41:00  INFO     Regular department handled parcel of 3.0 kg for Roland Lubben
+2021-07-18 22:41:00  INFO     Signoff by Insurance department for value of EUR 1500.0 for Ninon Spanjersberg
+2021-07-18 22:41:00  INFO     Regular department handled parcel of 10.0 kg for Ninon Spanjersberg
+2021-07-18 22:41:00  INFO     Signoff by Insurance department for value of EUR 1500.0 for Ninon Spanjersberg
+2021-07-18 22:41:00  INFO     Regular department handled parcel of 10.0 kg for Ninon Spanjersberg
+2021-07-18 22:41:00  INFO     Mail department handled parcel of 0.7 kg for Montana Martinus
+2021-07-18 22:41:00  INFO     Signoff by Insurance department for value of EUR 1100.0 for Aisling Kruizenga
+2021-07-18 22:41:00  INFO     Mail department handled parcel of 0.9 kg for Aisling Kruizenga
+2021-07-18 22:41:00  INFO     Regular department handled parcel of 4.5 kg for Bernadet Spijker
+2021-07-18 22:41:00  INFO     Signoff by Insurance department for value of EUR 1500.0 for Collin Slaman
+2021-07-18 22:41:00  INFO     Heavy department handled parcel of 120.0 kg for Collin Slaman
+2021-07-18 22:41:00  INFO     Signoff by Insurance department for value of EUR 2000.0 for Collin Slaman
+2021-07-18 22:41:00  INFO     Heavy department handled parcel of 130.0 kg for Collin Slaman
+2021-07-18 22:41:00  INFO     Mail department handled parcel of 0.3 kg for Ingetje Hauwert
+2021-07-18 22:41:00  INFO     Mail department handled parcel of 1.0 kg for Amber van der Schaar
+2021-07-18 22:41:00  INFO     Heavy department handled parcel of 15.0 kg for Willemtje Guldemond
+2021-07-18 22:41:00  INFO     Heavy department handled parcel of 15.0 kg for Willemtje Guldemond
+2021-07-18 22:41:00  INFO     Mail department handled parcel of 0.4 kg for Zeki Soekhai
+2021-07-18 22:41:00  DEBUG    End parcel handling of shipment
