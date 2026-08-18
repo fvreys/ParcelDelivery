@@ -18,7 +18,7 @@ Find below some possible improvements.
 - Improve folder structure: 
   - Split up the module and test file into different files & create different folders for modules and tests 
   - Complete file setup.py, ..
-- Create a commnand line application
+- Create a command line application
 - Add better configuration to be independent from: directories used, environment,..
   - Solve error with virtual environment (regarding "Activate.ps1')
 
@@ -45,7 +45,7 @@ Find below some possible improvements.
 - Show output in a simple UI application
 - Logging: 
   - add handlers and formatters (e.g. for console), a separate logging configuration file,..
-  - logging in JSON-format to have more meaningful format for monitoring tools (e.g. Kibana)
+  - logging in JSON-format to have more meaningful format for monitoring tools (e.g. Kibana, Datadog,..)
 
 ## Unit tests
 - Improve unit test coverage: especially for methods of classes and main function
