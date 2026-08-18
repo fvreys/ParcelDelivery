@@ -1,5 +1,5 @@
 # Objective document
-The actual solution can stil be changed or improved in many ways. 
+The actual solution written in Python can still be changed or improved in many ways. 
 Find below some possible improvements.
 
 - [Objective document](#objective-document)
@@ -16,7 +16,7 @@ Find below some possible improvements.
  
 # I. General
 - Improve folder structure: 
-  - Split up the module and testfile into different files & create different folders for modules and tests 
+  - Split up the module and test file into different files & create different folders for modules and tests 
   - Complete file setup.py, ..
 - Create a commnand line application
 - Add better configuration to be independent from: directories used, environment,..
@@ -31,9 +31,9 @@ Find below some possible improvements.
 
 ## Parsing
 - During parsing create immediately parcel class objects for the shipment, and not put the parcels first in a data structure
-- Store Shipment ID and date for future usage: e.g. in a global variable, in the return parameter of the parsion function, ..
+- Store Shipment ID and date for future usage: e.g. in a global variable, in the return parameter of the parser function, ..
 - Parse the xml at once into a directory, e.g. with a library as xmltodict (problem: duplicate parcels)
-- Housenumber could become an integer (not a string), if we can assume it will never contain a housenr extension
+- House number could become an integer (not a string), if we can assume it will never contain a housenr extension
 
 ## Processing
 - Regarding OOP:
@@ -50,7 +50,7 @@ Find below some possible improvements.
 ## Unit tests
 - Improve unit test coverage: especially for methods of classes and main function
   - main function is tested manual: using different XML input files validate console en logfile output
-- Use preconfigured testdata 
+- Use preconfigured (or synthetic) test data 
 
 ## Non-functional requirements
 - Add exception handling: e.g. validation of input values in XML, cover more use cases for the unhappy flow, ..
@@ -61,5 +61,5 @@ Find below some possible improvements.
  
 # III. Maintenance to add / remove a department
 - Change only 3 lines in the main function
-  - Add/remove initialization of department. For handling/checking department is called a different class method.
+  - Add/remove initialisation of department. For handling/checking department is called a different class method.
   - Add/remove in the for-loop the parcels the condition related to department 
