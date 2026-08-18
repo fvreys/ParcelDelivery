@@ -16,11 +16,11 @@ The current business rules are as follows:
 ### Feature 2
 Parcels with a value of over € 1000,- need to be signed off by the "Insurance" department, before being processed by the other departments.
 
-## Exercise
+## Actions to do
 - Parse the XML file (Container_68465468.xml)
-- Build a working application using a language and frameworks of your choosing, unless otherwise agreed
+- Build a working application
 - Unit tests
-- Presentation (maybe some UI / Console app)
+- Presentation (maybe some UI / Console app - here only in log file)
 
 
 # Solution
